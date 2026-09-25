@@ -1,0 +1,6 @@
+{
+  "name": "PanicTimer - Brutally Honest Exam Procrastination Calculator",
+  "description": "An exam countdown and procrastination calculator that calculates your real productive study time after sleep, predicts your panic zone, and roasts you into taking action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
